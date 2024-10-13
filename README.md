@@ -1,2 +1,2 @@
-# Machine_learning_Tutorial
-Learn Mathematiocs Behind ML
+# Machine_Learning_Tutorial
+Learn Mathematics Behind ML
